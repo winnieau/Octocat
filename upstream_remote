@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Not sure if an upstream remote is the same thing as a "remote" but I believe it is a way for your repositories to know that they are linked together.  
